@@ -42,13 +42,13 @@ button{
     font-weight: bold;
     letter-spacing: 1px;
     cursor: pointer;
-    opacity: 0.6;
     transition: 0.3s;
     color: #a681ff;
 }
 
 button:hover{
-    opacity: 1;
+    background-color: #99a0ee;
+    color: #3d4597;
 }
 
 p{
